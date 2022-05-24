@@ -6,4 +6,4 @@ client.list({}, (error, notes) => {
   } else {
     console.error(error)
   }
-})
+}) 
